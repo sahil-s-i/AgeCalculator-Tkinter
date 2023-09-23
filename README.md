@@ -15,7 +15,11 @@ Welcome to the "Age Calculator" repository! This project is your go-to tool for 
 
 <img width="297" alt="Screenshot 2023-09-23 172804" src="https://github.com/sahil-s-i/AgeCalculator-Tkinter/assets/137802489/edfc79ab-95dc-4c43-9cff-03942e7a2fbb">
 
-<img width="502" alt="Screenshot 2023-09-23 173017" src="https://github.com/sahil-s-i/AgeCalculator-Tkinter/assets/137802489/87b91253-3682-4596-91bc-b4abc643834a">
+###### quotes :
 
-<img width="499" alt="Screenshot 2023-09-23 172845" src="https://github.com/sahil-s-i/AgeCalculator-Tkinter/assets/137802489/99391411-3f74-4d02-92ac-2851b7c95d6a">
+
+<img width="476" alt="Screenshot 2023-09-23 172845" src="https://github.com/sahil-s-i/AgeCalculator-Tkinter/assets/137802489/1fc0547a-38e9-476e-9c60-7e848154fe50">
+
+<img width="485" alt="Screenshot 2023-09-23 173017" src="https://github.com/sahil-s-i/AgeCalculator-Tkinter/assets/137802489/c2efce9b-5530-48dd-9338-e8d8bfe03eba">
+
 
